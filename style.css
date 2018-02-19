@@ -8,6 +8,13 @@
   margin-top: 15px;
   margin-bottom: 15px;
 }
+/* logo styling */
+
+.logo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
 
 /* Carousel styling */
 
