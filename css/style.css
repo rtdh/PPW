@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  padding:0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -19,40 +19,43 @@
 /* Carousel styling */
 
 .carousel-caption {
-  top:50%;
-  left:50%;
+  top: 50%;
+  left: 50%;
   transform: translate(-50%, -50%);
 }
+
 .zoomIn {
   animation-delay: 2s;
   animation-duration: 4s;
 }
+
 .slideInDown {
   animation-delay: 0.25s;
   animation-duration: 2s;
 }
+
 .fadeInUp{
   animation-delay: 2s;
   animation-duration: 2s;
 }
 
-
 /* Video css */
-
 .v-header {
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
   overflow: hidden;
   height: 50vh;
-  position:relative;
+  position: relative;
 }
+
 .main-video {
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
 
 }
+
 .overlay-color {
-  position:absolute;
+  position: absolute;
   top: 0;
   left: 0;
   width: 100%;
@@ -61,6 +64,7 @@
   z-index: 1;
   opacity: 0.75;
 }
+
 .video-content {
   position: absolute;
   top: 60%;
@@ -79,7 +83,6 @@
 }
 
 /* jumbotron styling */
-
 #bg_jumbotron {
   background: linear-gradient(to right bottom, #404040, #bfbfbf);
 }
@@ -131,7 +134,6 @@
 
 #main {
   transition: margin-left .5s;
-
 }
 
 .card-img-top {
@@ -284,6 +286,7 @@ div.fa-phone-volume {
 .card-body .btn {
   width: 100%;
   margin-bottom: 10px;
+  font-size: 14px;
 }
 
 .tab-pane {
