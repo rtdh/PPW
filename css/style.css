@@ -132,8 +132,8 @@
   margin-left: 50px;
 }
 
-#main {
-  transition: margin-left .5s;
+.main {
+  transition: margin-left 0.5s;
 }
 
 .card-img-top {
