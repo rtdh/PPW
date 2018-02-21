@@ -16,6 +16,32 @@
 	border-radius: 50%;
 }
 /* Carousel styling */
+#carouselExampleIndicators {
+	height: 50vh;
+}
+.slide-one {
+	width: 100%;
+	height: 50vh;
+	background-image: url('img/tech1.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.slide-two {
+	width: 100%;
+	height: 50vh;
+	background-image: url('img/house.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
+.slide-three {
+	width: 100%;
+	height: 50vh;
+	background-image: url('img/computer1.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+
+}
 
 .carousel-caption {
 	top: 50%;
